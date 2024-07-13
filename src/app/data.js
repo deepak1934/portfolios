@@ -24,13 +24,13 @@ export const projectsData = [
     date: "2024",
     demoLink: "https://deepak1934.github.io/3dQuizgame/",
   },
-  // {
-  //   id: 2,
-  //   name: "ArtGallery Online",
-  //   description: "Digital art showcase platform",
-  //   date: "2022-06-20",
-  //   demoLink: "https://artgalleryonline.example.com",
-  // },
+  {
+    id: 2,
+    name: "CarShow ",
+    description: "online car show ",
+    date: "2024-07-13",
+    demoLink: "https://deepak1934.github.io/cameraMovmentInThree/",
+  },
   // {
   //   id: 3,
   //   name: "BudgetPlanner",
