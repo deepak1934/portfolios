@@ -31,13 +31,13 @@ export const projectsData = [
     date: "2024-07-13",
     demoLink: "https://deepak1934.github.io/cameraMovmentInThree/",
   },
-  // {
-  //   id: 3,
-  //   name: "BudgetPlanner",
-  //   description: "Plan and track expenses",
-  //   date: "2022-09-10",
-  //   demoLink: "https://budgetplanner.example.com",
-  // },
+  {
+    id: 3,
+    name: "Honted house",
+    description: "This is only a project that made by me on the way of learning threeJS",
+    date: "2022-09-10",
+    demoLink: "https://deepak1934.github.io/honted/",
+  },
   // {
   //   id: 4,
   //   name: "HealthBeat",
