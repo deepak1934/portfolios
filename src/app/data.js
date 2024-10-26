@@ -45,13 +45,13 @@ export const projectsData = [
     date: "2024-09-11",
     demoLink: "https://deepak1934.github.io/Galaxyy/",
   },
-  // {
-  //   id: 5,
-  //   name: "RecipeFinder",
-  //   description: "Discover new recipes",
-  //   date: "2022-07-12",
-  //   demoLink: "https://recipefinder.example.com",
-  // },
+  {
+    id: 5,
+    name: "RecipeFinder",
+    description: "Discover new recipes",
+    date: "2022-07-12",
+    demoLink: "https://deepak1934.github.io/farrari/",
+  },
   // {
   //   id: 6,
   //   name: "JourneyLogger",
