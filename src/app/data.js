@@ -47,9 +47,9 @@ export const projectsData = [
   },
   {
     id: 5,
-    name: "RecipeFinder",
-    description: "Discover new recipes",
-    date: "2022-07-12",
+    name: "Farrari car show",
+    description: "in this you can change the color of glasses, wheels and also the body of car",
+    date: "2024-10-25",
     demoLink: "https://deepak1934.github.io/farrari/",
   },
   // {
